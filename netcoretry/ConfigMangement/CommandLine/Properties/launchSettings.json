@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLine": {
+      "commandName": "Project",
+      "commandLineArgs": "name=dzero age=27"
+    }
+  }
+}

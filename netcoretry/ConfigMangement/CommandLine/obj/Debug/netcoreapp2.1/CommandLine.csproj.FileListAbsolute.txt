@@ -1,0 +1,11 @@
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\bin\Debug\netcoreapp2.1\CommandLine.deps.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\bin\Debug\netcoreapp2.1\CommandLine.runtimeconfig.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\bin\Debug\netcoreapp2.1\CommandLine.runtimeconfig.dev.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\bin\Debug\netcoreapp2.1\CommandLine.dll
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\obj\Debug\netcoreapp2.1\CommandLine.csprojAssemblyReference.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\obj\Debug\netcoreapp2.1\CommandLine.csproj.CoreCompileInputs.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\obj\Debug\netcoreapp2.1\CommandLine.AssemblyInfoInputs.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\obj\Debug\netcoreapp2.1\CommandLine.AssemblyInfo.cs
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\bin\Debug\netcoreapp2.1\CommandLine.pdb
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\obj\Debug\netcoreapp2.1\CommandLine.dll
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\CommandLine\obj\Debug\netcoreapp2.1\CommandLine.pdb

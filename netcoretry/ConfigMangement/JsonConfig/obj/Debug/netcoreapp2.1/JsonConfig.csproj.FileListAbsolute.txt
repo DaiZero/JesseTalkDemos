@@ -1,0 +1,12 @@
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\bin\Debug\netcoreapp2.1\JsonConfig.deps.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\bin\Debug\netcoreapp2.1\JsonConfig.runtimeconfig.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\bin\Debug\netcoreapp2.1\JsonConfig.runtimeconfig.dev.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\bin\Debug\netcoreapp2.1\JsonConfig.dll
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\obj\Debug\netcoreapp2.1\JsonConfig.csproj.CoreCompileInputs.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\obj\Debug\netcoreapp2.1\JsonConfig.AssemblyInfoInputs.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\obj\Debug\netcoreapp2.1\JsonConfig.AssemblyInfo.cs
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\bin\Debug\netcoreapp2.1\JsonConfig.pdb
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\obj\Debug\netcoreapp2.1\JsonConfig.csprojAssemblyReference.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\obj\Debug\netcoreapp2.1\JsonConfig.dll
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\obj\Debug\netcoreapp2.1\JsonConfig.pdb
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\JsonConfig\bin\Debug\netcoreapp2.1\class.json

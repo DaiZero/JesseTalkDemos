@@ -1,0 +1,15 @@
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\bin\Debug\netcoreapp2.1\OptionsBind.deps.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\bin\Debug\netcoreapp2.1\OptionsBind.runtimeconfig.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\bin\Debug\netcoreapp2.1\OptionsBind.runtimeconfig.dev.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\bin\Debug\netcoreapp2.1\OptionsBind.dll
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.csprojAssemblyReference.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.csproj.CoreCompileInputs.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.RazorAssemblyInfo.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.RazorAssemblyInfo.cs
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.AssemblyInfoInputs.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.AssemblyInfo.cs
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.RazorTargetAssemblyInfo.cache
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\bin\Debug\netcoreapp2.1\appsettings.json
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\bin\Debug\netcoreapp2.1\OptionsBind.pdb
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.dll
+E:\DZeroProjects\GitHub\JesseTalkDemos\netcoretry\ConfigMangement\OptionsBind\obj\Debug\netcoreapp2.1\OptionsBind.pdb
